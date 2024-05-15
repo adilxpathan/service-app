@@ -13,7 +13,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <start-class>com.levo.dockerexample.DockerApp</start-class>
-        <jacoco-maven-plugin>0.8.8</jacoco-maven-plugin>
+        <jacoco-maven-plugin>0.8.10</jacoco-maven-plugin>
     </properties>
 
     <parent>
